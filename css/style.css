@@ -15,6 +15,15 @@ h1,h2,h3,h4,h5, header a{
 p{
     font-family: 'Roboto', sans-serif !important;
 }
+.fa-arrow-up{
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    color: #52AA5E;
+    padding: 10px;
+    border: 1px solid #080708;
+    border-radius: 20%;
+}
 .nav-link ,.navbar-toggler-icon{
     color: #EBF2FA !important;
 }
@@ -209,9 +218,9 @@ footer a:hover{
         margin-top: 15%;
     }
     .carousel-inner img{
-        height: 70vh !important;
+        height: 80vh !important;
     }
     .map{
-        height: 70vh !important;
+        height: 80vh !important;
     }
 }
