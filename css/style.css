@@ -208,4 +208,10 @@ footer a:hover{
     .under-nav{
         margin-top: 15%;
     }
+    .carousel-inner img{
+        height: 70vh !important;
+    }
+    .map{
+        height: 70vh !important;
+    }
 }
