@@ -177,6 +177,9 @@ footer a:hover{
     .carousel-inner img{
         height: 45vh !important;
     }
+    #top, .fa-arrow-up{
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 767px){
