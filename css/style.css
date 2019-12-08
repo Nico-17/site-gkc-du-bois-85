@@ -108,6 +108,10 @@ hr{
 .map{
     height: 40vh;
 }
+.mes-infos p{
+    color: #EBF2FA !important;
+    font-weight: 900 !important;
+}
 #contact h2,#contact h3, #contact p, #contact label {
     color: #EBF2FA;
 }
