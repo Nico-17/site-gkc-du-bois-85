@@ -109,14 +109,14 @@ hr{
     height: 40vh;
 }
 .mes-infos p{
-    color: #EBF2FA !important;
+    color: #080708 !important;
     font-weight: 900 !important;
 }
 #contact h2,#contact h3, #contact p, #contact label {
     color: #EBF2FA;
 }
 #contact i {
-    color: #EBF2FA;
+    color: #080708;
 }
 .container-fluid{
     padding-left: 0 !important;
