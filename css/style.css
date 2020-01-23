@@ -158,6 +158,9 @@ footer a:hover{
 .img-bois img{
     border-radius: 15px;
 }
+.t1{
+    color: #52AA5E;
+}
 @media screen and (max-width: 1280px){
     .img-bois{
         flex-wrap: wrap !important;
